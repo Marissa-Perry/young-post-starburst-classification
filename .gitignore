@@ -1,0 +1,16 @@
+# Python/Jupyter Notebook
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# saved plots (unnecessary if they will be generated in the notebook as well)
+plots/
+# saved dataframes from querying
+data/
+classified_sample/
+
+# documents
+*.pdf
