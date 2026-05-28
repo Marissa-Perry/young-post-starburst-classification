@@ -10,18 +10,6 @@ This project was developed in Fall 2025 under the mentorship of Prof. Christy Tr
 - `classified_sample/` - catalog of candidate young PSBs in eBOSS
 - `plots/` - visualizations (not tracked in git)
 
-## Setup
-
-A conda environment for this project can be set up by running:
-```bash``       
-conda env create -f desi_env.yml
-```
-
-Activate this environment with
-```bash
-conda activate desi_env
-```
-
 ## Acknowledgements
 
 This research used spectral measurements of eBOSS targets obtained by [Matthews Acuña et al. 2025](https://ui.adsabs.harvard.edu/abs/2025arXiv251218076M/abstract).
