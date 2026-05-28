@@ -1,6 +1,6 @@
 ## Overview
 
-This project was developed in Fall 2025 under the mentorship of Prof. Christy Tremonti and graduate student Marissa Perry. The goal of this project is to identify and investigate extremely young ($\less50$ Myr) post-starburst (PSB) galaxies using the SDSS-IV/eBOSS survey.
+This project was developed in Fall 2025 under the mentorship of Prof. Christy Tremonti and graduate student Marissa Perry. The goal of this project is to identify and investigate extremely young ($<50$ Myr) post-starburst (PSB) galaxies using the SDSS-IV/eBOSS survey.
 
 ## Structure
 - `notebooks/`
